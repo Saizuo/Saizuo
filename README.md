@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saizuo</h1>
-<h3 align="center">A passionate frontend developer from India ( NO I AM DEPRESSED , HELP ME )</h3>
+<h1 align="center">Hi, I'm Saizuo</h1>
+<h3 align="center">I work in a Basement with a beeg pp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saizuo&label=Profile%20views&color=0e75b6&style=flat" alt="saizuo" /> </p>
 
