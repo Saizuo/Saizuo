@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saizuo&label=Profile%20views&color=0e75b6&style=flat" alt="saizuo" /> </p>
 
-<p align="left"> <a href="
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?Saizuo=ryo-ma&theme=discord
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?Saizuo=ryo-ma&theme=discord
+"><img src="https://github-profile-trophy.vercel.app/?Saizuo=ryo-ma&theme=discord
 " alt="saizuo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
