@@ -8,25 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Joe mama**
-
-- 🌱 I’m currently learning **Joe Mama**
-
-- 👯 I’m looking to collaborate on **Joe Mama**
-
-- 🤝 I’m looking for help with **Joe Mama**
-
-- 👨‍💻 All of my projects are available at [JoeMama.com](JoeMama.com)
-
-- 📝 I regularly write articles on [JoeMama.co](JoeMama.co)
-
-- 💬 Ask me about **Joe Mama**
-
-- 📫 How to reach me **Joemama@gmail.com**
-
-- 📄 Know about my experiences [Joemama.tk](Joemama.tk)
-
-- ⚡ Fun fact **Joemama**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
