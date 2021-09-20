@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Saizuo</h1>
 <h3 align="center">I work in a Basement with a beeg pp</h3>
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Saizuo&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Saizuo&theme=dracula"></div>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
