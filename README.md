@@ -1,6 +1,6 @@
 <p align="middle"> <img src="https://i.pinimg.com/originals/70/c3/26/70c326bf1a4214a492a69d4a7f6d91b8.jpg" alt="saizuo" /> </p>
 <h1 align="center">Hi, I'm Saizuo</h1>
-<h3 align="center">I work in a Basement with a beeg pp</h3>
+<h3 align="center">Expresso Joe Mama is Depresso</h3>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Saizuo&theme=dracula"></div>
 
