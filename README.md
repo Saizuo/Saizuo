@@ -2,6 +2,11 @@
 <h1 align="center">Hi, I'm Saizuo</h1>
 <h3 align="center">I Code</h3>
 
+
+[![Discord profile](https://discord.c99.nl/widget/theme-3/532177714203852800.png)](https://discord.com/users/532177714203852800)
+
+
+
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Saizuo&theme=dracula"></div>
 
 
