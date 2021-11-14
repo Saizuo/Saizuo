@@ -1,4 +1,4 @@
-<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54eb5af2-039c-4a9a-9c39-8cbe8868c779/dedby6o-5eb91d30-b19f-430e-adc7-29e728fbb6c1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ZWI1YWYyLTAzOWMtNGE5YS05YzM5LThjYmU4ODY4Yzc3OVwvZGVkYnk2by01ZWI5MWQzMC1iMTlmLTQzMGUtYWRjNy0yOWU3MjhmYmI2YzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ddM4NnlUuslsbzzlvQrfSkSq71wEVHAZN8IwTO5_9yc"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/889523668252753931/909351249617494086/dedby6o-5eb91d30-b19f-430e-adc7-29e728fbb6c1.gif"></div>
 
 # 👋 Yo I'm Saizuo
 
