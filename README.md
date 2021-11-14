@@ -1,4 +1,4 @@
-<div align="center"><img src="https://cdn.discordapp.com/attachments/889523668252753931/909351249617494086/dedby6o-5eb91d30-b19f-430e-adc7-29e728fbb6c1.gif"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/889523668252753931/909351868419956826/waneella-11.gif"></div>
 
 # 👋 Yo I'm Saizuo
 
