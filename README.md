@@ -21,12 +21,12 @@ I like Working On SUSu Stuff
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-05122A.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-05122A.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-05122A.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/ruby-05122A.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-05122A.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/blender-05122A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 # There iS More But I will Add Them Later
 
