@@ -27,7 +27,7 @@ I like Working On SUSu Stuff
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 # There iS More But I will Add Them Later
 
 ### My Github statistics!
