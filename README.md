@@ -4,7 +4,7 @@
 
 I like Working On SUSu Stuff
 
-- I'm currently working on [**Mikuni**](https://mikuni.gq), [**NovaCosmos**](https://cosmosnova.ga) and **Ilionas** (Soon Maybe).
+- I'm currently working on [**Mikuni**](https://mikuni.tech), [**NovaCosmos**](https://novacosmos.live) and **Ilionas** (Soon Maybe).
 - I Like Working on Projects which holds great innovation
 
 ### Here Are Few Things I Tried And Have The Basic Idea 
