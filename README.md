@@ -1,6 +1,11 @@
 
 # 💫 About Me:
-Hey, I'm Saizuo👋🏼,<br><br>A normal guy who Knows a Bit of Coding and has experience in Stock Trading. I like to work on projects, hang out with friends and family, read books, go on adventures, and work on new ideas.<br><br>Curious about the world at an early age, I was always working on projects and programs in addition to having a profitable career in stock brokerage. Dissatisfied with the classic status quo long ago, I had mastered trading in different markets.<br><br>Aiming to generate financial independence. In the meantime, I work on diversifying my career and skills.
+Greetings, I'm Saizuo👋🏼.🏼,<br><br>
+I'm just your average Joe with a dabbling of coding knowledge and absolutely zero experience in stock trading. When I'm not scrolling through cat videos on YouTube, I like to pretend to work on projects, hang out with people who barely tolerate me, read books (mostly for the pictures), go on adventures (to the fridge and back), and daydream about new ideas that I will likely never act on.
+
+Despite my general cluelessness, I've always been curious about the world. As a kid, I loved taking things apart and pretending to know how to put them back together. While my endeavors in coding and the stock market have been underwhelming at best, I'm confident that my boundless enthusiasm and lack of expertise will carry me to new heights (or maybe just to the nearest bar).
+
+So if you're looking for someone who is mediocre at everything and has a knack for making bad jokes, I'm your guy!
 
 
 ## 🌐 Socials:
