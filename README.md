@@ -26,8 +26,3 @@ So if you're looking for someone who is mediocre at everything and has a knack f
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saizuo&icon=6&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by funding a small amount to my startup
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/noerror)
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
