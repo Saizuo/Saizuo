@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-<img src="blob:https://imgur.com/12fde6bb-48ea-4217-8a19-e3cf872af7f2" class="center">
+<img src="https://imgur.com/2Ub24ni" class="center">
 Greetings, I'm Saizuo👋🏼,<br><br>
 I'm just your average Joe with a dabbling of coding knowledge and absolutely zero experience in stock trading. When I'm not scrolling through cat videos on YouTube, I like to pretend to work on projects, hang out with people who barely tolerate me, read books (mostly for the pictures), go on adventures (to the fridge and back), and daydream about new ideas that I will likely never act on.
 
