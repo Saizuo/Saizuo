@@ -1,1 +1,1 @@
-
+<img src="https://media.discordapp.net/attachments/1244862316361814068/1316795179889594378/Group_4.png?ex=675c5893&is=675b0713&hm=eb4bbe5a020cabd42bce95bcf925e4f33533c5f7ffc89cc560bc83fb7d1b8f58&=&format=webp&quality=lossless&width=1440&height=657" alt="User">
